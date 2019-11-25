@@ -27,7 +27,7 @@ public class AnonymousFuntion {
 
     }
 }
-
+//看看效果
 interface Customer {
     public String sayHello(String name);
     public int Add(int a ,int b);
