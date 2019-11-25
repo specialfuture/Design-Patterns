@@ -1,4 +1,4 @@
-package com.company;
+package AgentFuntion;
 
 /**
  * 创建Person接口
